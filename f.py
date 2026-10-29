@@ -3,3 +3,5 @@ def add(a,b):
 a=add(12,3)
 print("i am karthik from mysuru")
 print(a)
+name="karthik"
+print(name)
