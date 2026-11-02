@@ -7,3 +7,6 @@ def func(a):
         print("error")
 a1=9740
 func(a1)        
+
+n="karthik written the code"
+print(n)
