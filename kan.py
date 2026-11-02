@@ -6,4 +6,7 @@ def func(a):
     else:
         print("error")
 a1=9740
-func(a1)        
+func(a1) 
+
+a="deekshith is written the code"
+print(a)
