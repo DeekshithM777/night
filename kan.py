@@ -10,3 +10,7 @@ func(a1)
 
 n="karthik written the code"
 print(n)
+func(a1) 
+
+a="deekshith is written the code"
+print(a)
