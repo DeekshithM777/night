@@ -4,6 +4,6 @@ def func(a):
     if pin==a:
         print(a1)
     else:
-        print("no invalid")    
-a=int(input("enter the name:"))
-func(a)        
+        print("error")
+a1=9740
+func(a1)        
